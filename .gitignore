@@ -1,0 +1,15 @@
+.DS_Store
+*.pyc
+.idea/
+venv/
+/staticfiles/
+*/__pycache__/
+venv
+env
+.env
+./.env
+media/
+postgres_data
+.vscode/
+.pytest_cache
+
