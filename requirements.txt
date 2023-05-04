@@ -1,3 +1,5 @@
 fastapi
 "tortoise-orm[asyncpg]"
 uvicorn
+aerich
+python-dotenv
